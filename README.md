@@ -57,7 +57,8 @@ That's all from the installation and now you just need to start srunning:
 ![image](https://github.com/DaM201/SRunning/assets/68821652/0fff55de-1c2b-47db-818b-4884162ef8e5)
 
 ```
-python srunning.py -h
+pip install -r requirements.txt
+python srunning.py
 ```
 
 ### PROBLEM WITH COMMAND WGET
