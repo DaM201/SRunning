@@ -26,7 +26,9 @@ Install Python from the Microsoft Store:
 First press **WIN+R** to launch RUN
 
 ![image](https://github.com/DaM201/SRunning/assets/68821652/842333d1-287e-4d1a-9685-8d610ed895e1)
-```cmd```
+```
+cmd
+```
 
 press **ENTER** to start **CMD**
 
@@ -36,7 +38,9 @@ press **ENTER** to start **CMD**
 type the following command into CMD:
 
 ![image](https://github.com/DaM201/SRunning/assets/68821652/70dbdf0b-b9d4-4fd8-b579-0ccf805f8558)
-```powershell```
+```
+powershell
+```
 
 Then when you get powershell running, type and run this command:
 
@@ -52,7 +56,9 @@ That's all from the installation and now you just need to start srunning:
 
 ![image](https://github.com/DaM201/SRunning/assets/68821652/0fff55de-1c2b-47db-818b-4884162ef8e5)
 
-```python srunning.py -h```
+```
+python srunning.py -h
+```
 
 ### PROBLEM WITH COMMAND WGET
 If you had a problem with the WGET command,
