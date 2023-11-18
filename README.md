@@ -98,7 +98,7 @@ options:
   --language LANGUAGE  selecting a new language from the list (CZ or ENG) EXAMPLE => srunning --language
   --nocolor            scripting will not be in colour
   --history            history of new connections or disconnections from IP Addressi
-  --update             updates srunning ```
+  --update             updates srunning
 
 
 
