@@ -81,6 +81,50 @@ That's all from the installation and now you just need to start srunning:
 
 ![image](https://github.com/DaM201/SRunning/assets/68821652/0fff55de-1c2b-47db-818b-4884162ef8e5)
 
+# INSTALLATION FOR LINUX AND MAC
+### Install Tools For SRunning
+
+
+**First we install it is Python and Git:**
+
+
+![image](https://github.com/DaM201/SRunning/assets/68821652/f459359f-8a41-4de9-b821-8d8872ff03dd)
+```
+apt install git python3
+```
+
+Then we install our SRunning:
+
+![image](https://github.com/DaM201/SRunning/assets/68821652/352d2345-13d7-435e-bcac-07dfa040b577)
+
+```
+git clone https://github.com/DaM201/SRunning
+```
+
+Now we start SRunning:
+
+![image](https://github.com/DaM201/SRunning/assets/68821652/9762297a-09e7-4c54-8abd-021dc61f73c0)
+
+```
+cd SRunning
+pip3 install -r requirements.txt
+python3 srunning.py -h
+```
+
+# Only with SRunning
+
+# Any Problems with program Write me
+
+[Youtube](https://www.youtube.com/channel/UC8Ao1YisJbPGCNG73EhtDCw)
+
+[Instagram](https://www.instagram.com/hnc_conporation/)
+
+
+
+
+
+
+
 ```
  ____                         _
 / ___| _ __ _   _ _ __  _ __ (_)_ __   __ _
